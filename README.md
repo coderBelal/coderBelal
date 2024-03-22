@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=coderBelal&icon=5&color=5)](https://visitcount.itsvg.in)
 # 💫 About Me:
 - 🌱 I’m currently learning React JS<br><br>- 👯 I’m looking to collaborate on [React JS](https://github.com/coderBelal/news-app1.git)<br><br>- 🤝 I’m looking for help with JavaScript<br><br>- 💬 Ask me about JavaScript ,React JS<br><br>- 📫 How to reach me uddinbelal473@gmail.com<br><br>- ⚡ Fun fact  I love to write about Islam
 
@@ -13,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderBelal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=coderBelal&icon=5&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
